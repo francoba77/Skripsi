@@ -1,3 +1,1 @@
-﻿<http://datadock.io/francoba77/Skripsi/id/resource/id/K9> <http://datadock.io/francoba77/Skripsi/id/definition/glossary> "-i"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/sampleindo.csv>.
-<http://datadock.io/francoba77/Skripsi/id/resource/id/K9> <http://datadock.io/francoba77/Skripsi/id/definition/label> "-iah"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/sampleindo.csv>.
-<http://datadock.io/francoba77/Skripsi/id/resource/id/K9> <http://datadock.io/francoba77/Skripsi/id/definition/part-of-speech> "Bentuk terikat (bt)"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/sampleindo.csv>.
+﻿

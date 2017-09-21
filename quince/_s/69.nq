@@ -1,3 +1,1 @@
-﻿<http://datadock.io/francoba77/Skripsi/id/resource/id/K15> <http://datadock.io/francoba77/Skripsi/id/definition/glossary> "yang digunakan untuk mengukuhkan pertanyaan: (dalam ragam standar) digunakan untuk memperhalus pertanyaan dan ditambahkan pada kata tanya apa, mana, bagaimana, berapa, di mana, mengapa, siapa"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/sampleindo.csv>.
-<http://datadock.io/francoba77/Skripsi/id/resource/id/K15> <http://datadock.io/francoba77/Skripsi/id/definition/label> "-kah"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/sampleindo.csv>.
-<http://datadock.io/francoba77/Skripsi/id/resource/id/K15> <http://datadock.io/francoba77/Skripsi/id/definition/part-of-speech> "Bentuk terikat (bt)"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/sampleindo.csv>.
+﻿

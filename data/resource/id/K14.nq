@@ -1,3 +1,0 @@
-﻿<http://datadock.io/francoba77/Skripsi/id/resource/id/K14> <http://datadock.io/francoba77/Skripsi/id/definition/glossary> "kualitas; keadaan; tingkat"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/sampleindo.csv>.
-<http://datadock.io/francoba77/Skripsi/id/resource/id/K14> <http://datadock.io/francoba77/Skripsi/id/definition/label> "-itas"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/sampleindo.csv>.
-<http://datadock.io/francoba77/Skripsi/id/resource/id/K14> <http://datadock.io/francoba77/Skripsi/id/definition/part-of-speech> "Bentuk terikat (bt)"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/sampleindo.csv>.
