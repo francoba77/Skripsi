@@ -1,0 +1,2 @@
+﻿<http://datadock.io/francoba77/Skripsi/id/resource/id/B6901> <http://datadock.io/francoba77/Skripsi/id/definition/gloss> "(dari:sahit) cacing dalam usus; panahiton:penyakit cacing dalam usus; ubat panahit:obat anti cacing."^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/B.Batak.csv>.
+<http://datadock.io/francoba77/Skripsi/id/resource/id/B6901> <http://datadock.io/francoba77/Skripsi/id/definition/label> "panahit"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/B.Batak.csv>.

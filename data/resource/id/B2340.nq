@@ -1,0 +1,2 @@
+﻿<http://datadock.io/francoba77/Skripsi/id/resource/id/B2340> <http://datadock.io/francoba77/Skripsi/id/definition/gloss> "gumaleam: beristirahat; mengaso; tidur-tiduran; gumaleamgaleam: mundar-mandir tanpa kerja."^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/B.Batak.csv>.
+<http://datadock.io/francoba77/Skripsi/id/resource/id/B2340> <http://datadock.io/francoba77/Skripsi/id/definition/label> "galeam"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/B.Batak.csv>.

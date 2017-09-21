@@ -1,0 +1,2 @@
+﻿<http://datadock.io/francoba77/Skripsi/id/resource/id/B4242> <http://datadock.io/francoba77/Skripsi/id/definition/gloss> "jaoat=jahat: mengenai ramalan yang buruk; ari jaoat: hari sial."^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/B.Batak.csv>.
+<http://datadock.io/francoba77/Skripsi/id/resource/id/B4242> <http://datadock.io/francoba77/Skripsi/id/definition/label> "jaoat"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/B.Batak.csv>.

@@ -1,1 +1,3 @@
 ﻿<http://datadock.io/francoba77/Skripsi/id/resource/id/B1548> <http://datadock.io/francoba77/Skripsi/id/dataset/batakindo.csv#translation-indonesia> <http://idword-rdf.com/K10735> <http://datadock.io/francoba77/Skripsi/id/dataset/batakindo.csv>.
+<http://datadock.io/francoba77/Skripsi/id/resource/id/B1548> <http://datadock.io/francoba77/Skripsi/id/definition/gloss> "bungka = buha; mamungka: membuka; sibungka botol: pembuka botol."^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/B.Batak.csv>.
+<http://datadock.io/francoba77/Skripsi/id/resource/id/B1548> <http://datadock.io/francoba77/Skripsi/id/definition/label> "bungka"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/B.Batak.csv>.

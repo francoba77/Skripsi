@@ -1,0 +1,2 @@
+﻿<http://datadock.io/francoba77/Skripsi/id/resource/id/B10321> <http://datadock.io/francoba77/Skripsi/id/definition/gloss> "tinggi; huta tinggi:nama tempat; sikola tinggi:sekolah tinggi; anak sikola tinggi:mahasiswa."^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/B.Batak.csv>.
+<http://datadock.io/francoba77/Skripsi/id/resource/id/B10321> <http://datadock.io/francoba77/Skripsi/id/definition/label> "tinggi"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/B.Batak.csv>.

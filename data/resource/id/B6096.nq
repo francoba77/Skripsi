@@ -1,2 +1,4 @@
 ﻿<http://datadock.io/francoba77/Skripsi/id/resource/id/B6096> <http://datadock.io/francoba77/Skripsi/id/dataset/batakindo.csv#translation-indonesia> <http://idword-rdf.com/K7282> <http://datadock.io/francoba77/Skripsi/id/dataset/batakindo.csv>.
 <http://datadock.io/francoba77/Skripsi/id/resource/id/B6096> <http://datadock.io/francoba77/Skripsi/id/dataset/batakindo.csv#translation-indonesia> <http://idword-rdf.com/K8367> <http://datadock.io/francoba77/Skripsi/id/dataset/batakindo.csv>.
+<http://datadock.io/francoba77/Skripsi/id/resource/id/B6096> <http://datadock.io/francoba77/Skripsi/id/definition/gloss> "licin."^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/B.Batak.csv>.
+<http://datadock.io/francoba77/Skripsi/id/resource/id/B6096> <http://datadock.io/francoba77/Skripsi/id/definition/label> "moror"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/B.Batak.csv>.

@@ -1,1 +1,3 @@
 ﻿<http://datadock.io/francoba77/Skripsi/id/resource/id/B6156> <http://datadock.io/francoba77/Skripsi/id/dataset/batakindo.csv#translation-indonesia> <http://idword-rdf.com/K63468> <http://datadock.io/francoba77/Skripsi/id/dataset/batakindo.csv>.
+<http://datadock.io/francoba77/Skripsi/id/resource/id/B6156> <http://datadock.io/francoba77/Skripsi/id/definition/gloss> "bdk ungkal. mungkap: bdk ungkap."^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/B.Batak.csv>.
+<http://datadock.io/francoba77/Skripsi/id/resource/id/B6156> <http://datadock.io/francoba77/Skripsi/id/definition/label> "mungkal"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/B.Batak.csv>.

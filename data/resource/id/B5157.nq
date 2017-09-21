@@ -1,1 +1,3 @@
 ﻿<http://datadock.io/francoba77/Skripsi/id/resource/id/B5157> <http://datadock.io/francoba77/Skripsi/id/dataset/batakindo.csv#translation-indonesia> <http://idword-rdf.com/K32284> <http://datadock.io/francoba77/Skripsi/id/dataset/batakindo.csv>.
+<http://datadock.io/francoba77/Skripsi/id/resource/id/B5157> <http://datadock.io/francoba77/Skripsi/id/definition/gloss> "longkot=lohot"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/B.Batak.csv>.
+<http://datadock.io/francoba77/Skripsi/id/resource/id/B5157> <http://datadock.io/francoba77/Skripsi/id/definition/label> "longkot"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/B.Batak.csv>.

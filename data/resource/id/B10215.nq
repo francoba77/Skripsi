@@ -1,0 +1,2 @@
+﻿<http://datadock.io/francoba77/Skripsi/id/resource/id/B10215> <http://datadock.io/francoba77/Skripsi/id/definition/gloss> "patengka:berbeda; tidak cocok satu sama lain; tengka; tidak terwujud; masitengkaan:saling mengganggu."^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/B.Batak.csv>.
+<http://datadock.io/francoba77/Skripsi/id/resource/id/B10215> <http://datadock.io/francoba77/Skripsi/id/definition/label> "tengka"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/B.Batak.csv>.

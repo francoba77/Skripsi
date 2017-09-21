@@ -1,1 +1,3 @@
 ﻿<http://datadock.io/francoba77/Skripsi/id/resource/id/B6302> <http://datadock.io/francoba77/Skripsi/id/dataset/batakindo.csv#translation-indonesia> <http://idword-rdf.com/K4378> <http://datadock.io/francoba77/Skripsi/id/dataset/batakindo.csv>.
+<http://datadock.io/francoba77/Skripsi/id/resource/id/B6302> <http://datadock.io/francoba77/Skripsi/id/definition/gloss> "selatan daya; barat daya (penjuru angin)."^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/B.Batak.csv>.
+<http://datadock.io/francoba77/Skripsi/id/resource/id/B6302> <http://datadock.io/francoba77/Skripsi/id/definition/label> "nariti"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/B.Batak.csv>.

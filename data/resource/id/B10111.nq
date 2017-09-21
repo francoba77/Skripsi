@@ -1,0 +1,2 @@
+﻿<http://datadock.io/francoba77/Skripsi/id/resource/id/B10111> <http://datadock.io/francoba77/Skripsi/id/definition/gloss> "lantai balai; bagian bawah balai (sopo); dimana orang berkumpul."^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/B.Batak.csv>.
+<http://datadock.io/francoba77/Skripsi/id/resource/id/B10111> <http://datadock.io/francoba77/Skripsi/id/definition/label> "tarisopo"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/B.Batak.csv>.

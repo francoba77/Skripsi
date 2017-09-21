@@ -1,1 +1,3 @@
 ﻿<http://datadock.io/francoba77/Skripsi/id/resource/id/B10142> <http://datadock.io/francoba77/Skripsi/id/dataset/batakindo.csv#translation-indonesia> <http://idword-rdf.com/K15065> <http://datadock.io/francoba77/Skripsi/id/dataset/batakindo.csv>.
+<http://datadock.io/francoba77/Skripsi/id/resource/id/B10142> <http://datadock.io/francoba77/Skripsi/id/definition/gloss> "pohon dan buah durian; juga:disebut nangka belanda."^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/B.Batak.csv>.
+<http://datadock.io/francoba77/Skripsi/id/resource/id/B10142> <http://datadock.io/francoba77/Skripsi/id/definition/label> "tarutung"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/B.Batak.csv>.

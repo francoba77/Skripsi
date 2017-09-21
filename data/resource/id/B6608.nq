@@ -1,2 +1,4 @@
 ﻿<http://datadock.io/francoba77/Skripsi/id/resource/id/B6608> <http://datadock.io/francoba77/Skripsi/id/dataset/batakindo.csv#translation-indonesia> <http://idword-rdf.com/K19760> <http://datadock.io/francoba77/Skripsi/id/dataset/batakindo.csv>.
 <http://datadock.io/francoba77/Skripsi/id/resource/id/B6608> <http://datadock.io/francoba77/Skripsi/id/dataset/batakindo.csv#translation-indonesia> <http://idword-rdf.com/K69249> <http://datadock.io/francoba77/Skripsi/id/dataset/batakindo.csv>.
+<http://datadock.io/francoba77/Skripsi/id/resource/id/B6608> <http://datadock.io/francoba77/Skripsi/id/definition/gloss> "hembus; tiup"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/B.Batak.csv>.
+<http://datadock.io/francoba77/Skripsi/id/resource/id/B6608> <http://datadock.io/francoba77/Skripsi/id/definition/label> "ombus"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/B.Batak.csv>.

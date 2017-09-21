@@ -1,0 +1,2 @@
+﻿<http://datadock.io/francoba77/Skripsi/id/resource/id/B4243> <http://datadock.io/francoba77/Skripsi/id/definition/gloss> "jaol=andul: luas; jauh daripada; (lebih besar; lebih kuat)."^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/B.Batak.csv>.
+<http://datadock.io/francoba77/Skripsi/id/resource/id/B4243> <http://datadock.io/francoba77/Skripsi/id/definition/label> "jaol"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/B.Batak.csv>.

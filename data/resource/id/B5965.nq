@@ -1,2 +1,4 @@
 ﻿<http://datadock.io/francoba77/Skripsi/id/resource/id/B5965> <http://datadock.io/francoba77/Skripsi/id/dataset/batakindo.csv#translation-indonesia> <http://idword-rdf.com/K44462> <http://datadock.io/francoba77/Skripsi/id/dataset/batakindo.csv>.
 <http://datadock.io/francoba77/Skripsi/id/resource/id/B5965> <http://datadock.io/francoba77/Skripsi/id/dataset/batakindo.csv#translation-indonesia> <http://idword-rdf.com/K44480> <http://datadock.io/francoba77/Skripsi/id/dataset/batakindo.csv>.
+<http://datadock.io/francoba77/Skripsi/id/resource/id/B5965> <http://datadock.io/francoba77/Skripsi/id/definition/gloss> "merah padam."^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/B.Batak.csv>.
+<http://datadock.io/francoba77/Skripsi/id/resource/id/B5965> <http://datadock.io/francoba77/Skripsi/id/definition/label> "merham"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/B.Batak.csv>.

@@ -1,0 +1,2 @@
+﻿<http://datadock.io/francoba77/Skripsi/id/resource/id/B4408> <http://datadock.io/francoba77/Skripsi/id/definition/gloss> "perangkap tikus; manjolungi: memasang perangkap; tarjolung: kena perangkap; terperangkap."^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/B.Batak.csv>.
+<http://datadock.io/francoba77/Skripsi/id/resource/id/B4408> <http://datadock.io/francoba77/Skripsi/id/definition/label> "jolung"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/B.Batak.csv>.

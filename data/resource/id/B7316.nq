@@ -1,0 +1,2 @@
+﻿<http://datadock.io/francoba77/Skripsi/id/resource/id/B7316> <http://datadock.io/francoba77/Skripsi/id/definition/gloss> "pedem=podom; tarpedem:ter-tidur; terkantuk-kantuk; papedem:tidurkan; membuat tidur."^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/B.Batak.csv>.
+<http://datadock.io/francoba77/Skripsi/id/resource/id/B7316> <http://datadock.io/francoba77/Skripsi/id/definition/label> "pedem"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/B.Batak.csv>.

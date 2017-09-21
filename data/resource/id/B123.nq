@@ -1,0 +1,2 @@
+﻿<http://datadock.io/francoba77/Skripsi/id/resource/id/B123> <http://datadock.io/francoba77/Skripsi/id/definition/gloss> "alal; malal: lemas tidak bertenaga karena lapar; sialal: sej amporik: burung sawah."^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/B.Batak.csv>.
+<http://datadock.io/francoba77/Skripsi/id/resource/id/B123> <http://datadock.io/francoba77/Skripsi/id/definition/label> "alal"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/B.Batak.csv>.

@@ -1,2 +1,4 @@
 ﻿<http://datadock.io/francoba77/Skripsi/id/resource/id/B10173> <http://datadock.io/francoba77/Skripsi/id/dataset/batakindo.csv#translation-indonesia> <http://idword-rdf.com/K22586> <http://datadock.io/francoba77/Skripsi/id/dataset/batakindo.csv>.
 <http://datadock.io/francoba77/Skripsi/id/resource/id/B10173> <http://datadock.io/francoba77/Skripsi/id/dataset/batakindo.csv#translation-indonesia> <http://idword-rdf.com/K67350> <http://datadock.io/francoba77/Skripsi/id/dataset/batakindo.csv>.
+<http://datadock.io/francoba77/Skripsi/id/resource/id/B10173> <http://datadock.io/francoba77/Skripsi/id/definition/gloss> "tedak=tedek"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/B.Batak.csv>.
+<http://datadock.io/francoba77/Skripsi/id/resource/id/B10173> <http://datadock.io/francoba77/Skripsi/id/definition/label> "tedak"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/B.Batak.csv>.

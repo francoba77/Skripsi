@@ -1,0 +1,2 @@
+﻿<http://datadock.io/francoba77/Skripsi/id/resource/id/B8824> <http://datadock.io/francoba77/Skripsi/id/definition/gloss> "satik=selep; masisatihan:saling membohongi; saling menuduh secara terselubung; sindir-menyindir."^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/B.Batak.csv>.
+<http://datadock.io/francoba77/Skripsi/id/resource/id/B8824> <http://datadock.io/francoba77/Skripsi/id/definition/label> "satik"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/B.Batak.csv>.

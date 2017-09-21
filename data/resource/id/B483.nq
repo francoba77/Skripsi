@@ -1,0 +1,2 @@
+﻿<http://datadock.io/francoba77/Skripsi/id/resource/id/B483> <http://datadock.io/francoba77/Skripsi/id/definition/gloss> "antian; antian ni aek: hari ke-8 pada penanggalan; antian ni angga: hari ke-22 pada penanggalan."^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/B.Batak.csv>.
+<http://datadock.io/francoba77/Skripsi/id/resource/id/B483> <http://datadock.io/francoba77/Skripsi/id/definition/label> "antian"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/B.Batak.csv>.
