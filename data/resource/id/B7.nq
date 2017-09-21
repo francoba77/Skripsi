@@ -1,2 +1,2 @@
-﻿<http://datadock.io/francoba77/Skripsi/id/resource/id/B7> <http://batakword-rdf.com/#translation-indonesia> "K54798"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/sample.csv>.
-<http://datadock.io/francoba77/Skripsi/id/resource/id/B7> <http://batakword-rdf.com/#translation-indonesia> "K61306"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/sample.csv>.
+﻿<http://datadock.io/francoba77/Skripsi/id/resource/id/B7> <http://datadock.io/francoba77/Skripsi/id/dataset/sample.csv#translation-indonesia> <http://idword-rdf.com/K54798> <http://datadock.io/francoba77/Skripsi/id/dataset/sample.csv>.
+<http://datadock.io/francoba77/Skripsi/id/resource/id/B7> <http://datadock.io/francoba77/Skripsi/id/dataset/sample.csv#translation-indonesia> <http://idword-rdf.com/K61306> <http://datadock.io/francoba77/Skripsi/id/dataset/sample.csv>.
