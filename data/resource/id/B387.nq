@@ -1,3 +1,1 @@
 ﻿<http://datadock.io/francoba77/Skripsi/id/resource/id/B387> <http://datadock.io/francoba77/Skripsi/id/dataset/batakindo.csv#translation-indonesia> <http://idword-rdf.com/K1867> <http://datadock.io/francoba77/Skripsi/id/dataset/batakindo.csv>.
-<http://datadock.io/francoba77/Skripsi/id/resource/id/B387> <http://datadock.io/francoba77/Skripsi/id/definition/gloss> "anggur; hau anggur: pokok anggur; tuak anggur: mi- numan anggur."^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/B.Batak.csv>.
-<http://datadock.io/francoba77/Skripsi/id/resource/id/B387> <http://datadock.io/francoba77/Skripsi/id/definition/label> "anggur"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/B.Batak.csv>.

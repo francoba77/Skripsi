@@ -1,4 +1,2 @@
 ﻿<http://datadock.io/francoba77/Skripsi/id/resource/id/B6752> <http://datadock.io/francoba77/Skripsi/id/dataset/batakindo.csv#translation-indonesia> <http://idword-rdf.com/K49663> <http://datadock.io/francoba77/Skripsi/id/dataset/batakindo.csv>.
 <http://datadock.io/francoba77/Skripsi/id/resource/id/B6752> <http://datadock.io/francoba77/Skripsi/id/dataset/batakindo.csv#translation-indonesia> <http://idword-rdf.com/K67001> <http://datadock.io/francoba77/Skripsi/id/dataset/batakindo.csv>.
-<http://datadock.io/francoba77/Skripsi/id/resource/id/B6752> <http://datadock.io/francoba77/Skripsi/id/definition/gloss> "mangotan:memegang."^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/B.Batak.csv>.
-<http://datadock.io/francoba77/Skripsi/id/resource/id/B6752> <http://datadock.io/francoba77/Skripsi/id/definition/label> "otan"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/B.Batak.csv>.

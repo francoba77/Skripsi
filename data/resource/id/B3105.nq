@@ -1,3 +1,1 @@
 ﻿<http://datadock.io/francoba77/Skripsi/id/resource/id/B3105> <http://datadock.io/francoba77/Skripsi/id/dataset/batakindo.csv#translation-indonesia> <http://idword-rdf.com/K25862> <http://datadock.io/francoba77/Skripsi/id/dataset/batakindo.csv>.
-<http://datadock.io/francoba77/Skripsi/id/resource/id/B3105> <http://datadock.io/francoba77/Skripsi/id/definition/gloss> "kekayaan"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/B.Batak.csv>.
-<http://datadock.io/francoba77/Skripsi/id/resource/id/B3105> <http://datadock.io/francoba77/Skripsi/id/definition/label> "hamoraon"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/B.Batak.csv>.

@@ -1,4 +1,2 @@
 ﻿<http://datadock.io/francoba77/Skripsi/id/resource/id/B8335> <http://datadock.io/francoba77/Skripsi/id/dataset/batakindo.csv#translation-indonesia> <http://idword-rdf.com/K58219> <http://datadock.io/francoba77/Skripsi/id/dataset/batakindo.csv>.
 <http://datadock.io/francoba77/Skripsi/id/resource/id/B8335> <http://datadock.io/francoba77/Skripsi/id/dataset/batakindo.csv#translation-indonesia> <http://idword-rdf.com/K58236> <http://datadock.io/francoba77/Skripsi/id/dataset/batakindo.csv>.
-<http://datadock.io/francoba77/Skripsi/id/resource/id/B8335> <http://datadock.io/francoba77/Skripsi/id/definition/gloss> "rindang; lebat daun"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/B.Batak.csv>.
-<http://datadock.io/francoba77/Skripsi/id/resource/id/B8335> <http://datadock.io/francoba77/Skripsi/id/definition/label> "rugun"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/B.Batak.csv>.

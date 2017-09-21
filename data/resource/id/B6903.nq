@@ -1,3 +1,1 @@
 ﻿<http://datadock.io/francoba77/Skripsi/id/resource/id/B6903> <http://datadock.io/francoba77/Skripsi/id/dataset/batakindo.csv#translation-indonesia> <http://idword-rdf.com/K2068> <http://datadock.io/francoba77/Skripsi/id/dataset/batakindo.csv>.
-<http://datadock.io/francoba77/Skripsi/id/resource/id/B6903> <http://datadock.io/francoba77/Skripsi/id/definition/gloss> "na di toru ni tangga:anjing."^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/B.Batak.csv>.
-<http://datadock.io/francoba77/Skripsi/id/resource/id/B6903> <http://datadock.io/francoba77/Skripsi/id/definition/label> "panangga"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/B.Batak.csv>.

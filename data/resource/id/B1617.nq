@@ -1,3 +1,1 @@
 ﻿<http://datadock.io/francoba77/Skripsi/id/resource/id/B1617> <http://datadock.io/francoba77/Skripsi/id/dataset/batakindo.csv#translation-indonesia> <http://idword-rdf.com/K60348> <http://datadock.io/francoba77/Skripsi/id/dataset/batakindo.csv>.
-<http://datadock.io/francoba77/Skripsi/id/resource/id/B1617> <http://datadock.io/francoba77/Skripsi/id/definition/gloss> "bersegera; bergopoh-gopoh (bdk puspus)."^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/B.Batak.csv>.
-<http://datadock.io/francoba77/Skripsi/id/resource/id/B1617> <http://datadock.io/francoba77/Skripsi/id/definition/label> "busbus"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/B.Batak.csv>.

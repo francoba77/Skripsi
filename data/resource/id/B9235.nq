@@ -1,3 +1,1 @@
 ﻿<http://datadock.io/francoba77/Skripsi/id/resource/id/B9235> <http://datadock.io/francoba77/Skripsi/id/dataset/batakindo.csv#translation-indonesia> <http://idword-rdf.com/K59618> <http://datadock.io/francoba77/Skripsi/id/dataset/batakindo.csv>.
-<http://datadock.io/francoba77/Skripsi/id/resource/id/B9235> <http://datadock.io/francoba77/Skripsi/id/definition/gloss> "sanggul rambut wanita"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/B.Batak.csv>.
-<http://datadock.io/francoba77/Skripsi/id/resource/id/B9235> <http://datadock.io/francoba77/Skripsi/id/definition/label> "siporhot"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/B.Batak.csv>.
