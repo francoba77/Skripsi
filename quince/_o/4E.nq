@@ -1,1 +1,2 @@
 ﻿<http://datadock.io/francoba77/Skripsi/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#Dataset> <http://datadock.io/francoba77/Skripsi/metadata>.
+<http://datadock.io/francoba77/Skripsi/id/dataset/tes.csv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#Dataset> <http://datadock.io/francoba77/Skripsi/id/dataset/tes.csv/metadata>.
