@@ -1,1 +1,3 @@
-﻿
+﻿<http://datadock.io/francoba77/Skripsi/id/dataset/sample.csv> <http://purl.org/dc/terms/license> <https://creativecommons.org/publicdomain/zero/1.0/> <http://datadock.io/francoba77/Skripsi/id/dataset/sample.csv/metadata>.
+<http://datadock.io/francoba77/Skripsi/id/resource/id/B48> <http://batakword-rdf.com/#translation-indonesia> "K205"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/sample.csv>.
+<http://datadock.io/francoba77/Skripsi/id/resource/id/B49> <http://batakword-rdf.com/#translation-indonesia> "K205"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/sample.csv>.

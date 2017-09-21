@@ -1,1 +1,2 @@
-﻿
+﻿<http://datadock.io/francoba77/Skripsi/id/dataset/sample.csv> <http://rdfs.org/ns/void#exampleResource> <http://datadock.io/francoba77/Skripsi/id/resource/id/B18> <http://datadock.io/francoba77/Skripsi/id/dataset/sample.csv/metadata>.
+<http://datadock.io/francoba77/Skripsi/id/resource/id/B40> <http://batakword-rdf.com/#translation-indonesia> "K2999"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/sample.csv>.
