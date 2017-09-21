@@ -1,1 +1,2 @@
-﻿
+﻿<http://datadock.io/francoba77/Skripsi/id/dataset/sample.csv> <http://rdfs.org/ns/void#dataDump> <http://datadock.io/francoba77/Skripsi/csv/sample.csv/sample.csv> <http://datadock.io/francoba77/Skripsi/id/dataset/sample.csv/metadata>.
+<http://datadock.io/francoba77/Skripsi/id/dataset/sample.csv> <http://rdfs.org/ns/void#dataDump> <https://github.com/francoba77/Skripsi/releases/download/sample_csv_20170921_082206/sample_csv_20170921_082206.nt.gz> <http://datadock.io/francoba77/Skripsi/id/dataset/sample.csv/metadata>.
