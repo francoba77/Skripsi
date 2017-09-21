@@ -1,2 +1,1 @@
-﻿<http://datadock.io/francoba77/Skripsi/id/dataset/sample4.csv> <http://purl.org/dc/terms/title> "sample4.csv"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/sample4.csv/metadata>.
-<http://datadock.io/francoba77/Skripsi/id/dataset/sampleindo.csv> <http://purl.org/dc/terms/title> "sampleindo.csv"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/sampleindo.csv/metadata>.
+﻿<http://datadock.io/francoba77/Skripsi/id/dataset/sampleindo.csv> <http://purl.org/dc/terms/title> "sampleindo.csv"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/sampleindo.csv/metadata>.
