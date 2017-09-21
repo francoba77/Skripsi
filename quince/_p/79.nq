@@ -1,0 +1,2 @@
+﻿<http://datadock.io/francoba77/Skripsi/id/definition/id> <http://www.w3.org/2000/01/rdf-schema#label> "ID"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/definitions>.
+<http://datadock.io/francoba77/Skripsi/id/definition/translation-indonesia> <http://www.w3.org/2000/01/rdf-schema#label> "Translation-Indonesia"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/definitions>.
