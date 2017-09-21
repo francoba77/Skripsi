@@ -1,1 +1,2 @@
-﻿<http://datadock.io/francoba77/Skripsi/id/definition/id> <http://www.w3.org/2000/01/rdf-schema#label> "ID"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/definitions>.
+﻿<http://datadock.io/francoba77/Skripsi/id/dataset/sampleindo.csv> <http://rdfs.org/ns/void#exampleResource> <http://datadock.io/francoba77/Skripsi/id/resource/id/K7> <http://datadock.io/francoba77/Skripsi/id/dataset/sampleindo.csv/metadata>.
+<http://datadock.io/francoba77/Skripsi/id/definition/id> <http://www.w3.org/2000/01/rdf-schema#label> "ID"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/definitions>.
