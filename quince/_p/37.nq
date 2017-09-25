@@ -1,2 +1,3 @@
 ﻿<http://datadock.io/francoba77/Skripsi/id/dataset/B.ing.csv> <http://rdfs.org/ns/void#triples> "64238"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/francoba77/Skripsi/id/dataset/B.ing.csv/metadata>.
+<http://datadock.io/francoba77/Skripsi/id/dataset/ind-batak.csv> <http://rdfs.org/ns/void#triples> "6018"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/francoba77/Skripsi/id/dataset/ind-batak.csv/metadata>.
 <http://datadock.io/francoba77/Skripsi/id/dataset/ind-eng.csv> <http://rdfs.org/ns/void#triples> "64238"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/francoba77/Skripsi/id/dataset/ind-eng.csv/metadata>.

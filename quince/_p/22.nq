@@ -1,3 +1,4 @@
 ﻿<http://datadock.io/francoba77/Skripsi/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#Dataset> <http://datadock.io/francoba77/Skripsi/metadata>.
 <http://datadock.io/francoba77/Skripsi/id/dataset/B.ing.csv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#Dataset> <http://datadock.io/francoba77/Skripsi/id/dataset/B.ing.csv/metadata>.
+<http://datadock.io/francoba77/Skripsi/id/dataset/ind-batak.csv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#Dataset> <http://datadock.io/francoba77/Skripsi/id/dataset/ind-batak.csv/metadata>.
 <http://datadock.io/francoba77/Skripsi/id/dataset/ind-eng.csv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#Dataset> <http://datadock.io/francoba77/Skripsi/id/dataset/ind-eng.csv/metadata>.
