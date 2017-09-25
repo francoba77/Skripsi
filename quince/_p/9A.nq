@@ -1,1 +1,2 @@
 ﻿<http://datadock.io/francoba77/Skripsi/id/dataset/B.ing.csv> <http://purl.org/dc/terms/title> "B.ing.csv"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/B.ing.csv/metadata>.
+<http://datadock.io/francoba77/Skripsi/id/dataset/ind-eng.csv> <http://purl.org/dc/terms/title> "ind-eng.csv"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/francoba77/Skripsi/id/dataset/ind-eng.csv/metadata>.
